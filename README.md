@@ -1,4 +1,4 @@
-# A-Note-on-Structured-Sparse-modeling
+# NoteBook
 Some results on Structured Sparse modeling
 
 1.1--- RPCA_NuclearL1_321_Color.mp4 
